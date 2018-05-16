@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{4663EEC4-6A7C-4719-A561-D0D72DEA7712}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CityInfo.API", "CityInfo.API\CityInfo.API.csproj", "{D08D4CCE-7C4A-4E53-B4B9-8762EF1AFC4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D08D4CCE-7C4A-4E53-B4B9-8762EF1AFC4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D08D4CCE-7C4A-4E53-B4B9-8762EF1AFC4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D08D4CCE-7C4A-4E53-B4B9-8762EF1AFC4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D08D4CCE-7C4A-4E53-B4B9-8762EF1AFC4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D08D4CCE-7C4A-4E53-B4B9-8762EF1AFC4F} = {4663EEC4-6A7C-4719-A561-D0D72DEA7712}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB6D4BF5-71C6-4497-8CFD-9C0F4A93F016}
+	EndGlobalSection
+EndGlobal
